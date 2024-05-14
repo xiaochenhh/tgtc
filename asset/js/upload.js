@@ -28,7 +28,7 @@ $smfile.fileinput({
     resizePreference: 'height',
     maxFileCount: 1,
     resizeImage: true,
-    resizeIfSizeMoreThan: 1080,
+    resizeIfSizeMoreThan: 3000,
     fileActionSettings: {
         showRemove: true,
         showUpload: true,
